@@ -1,0 +1,3 @@
+all: test
+test: testPA2.cpp Deque.h
+	g++ testPA2.cpp
